@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/9-key-Drum/static/css/main.9942f59e.css",
+    "main.js": "/9-key-Drum/static/js/main.75e58936.js",
+    "static/js/787.6bb6e8ac.chunk.js": "/9-key-Drum/static/js/787.6bb6e8ac.chunk.js",
+    "index.html": "/9-key-Drum/index.html",
+    "main.9942f59e.css.map": "/9-key-Drum/static/css/main.9942f59e.css.map",
+    "main.75e58936.js.map": "/9-key-Drum/static/js/main.75e58936.js.map",
+    "787.6bb6e8ac.chunk.js.map": "/9-key-Drum/static/js/787.6bb6e8ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9942f59e.css",
+    "static/js/main.75e58936.js"
+  ]
+}
